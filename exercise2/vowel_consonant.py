@@ -1,4 +1,4 @@
-#
+# Write the program to check vowels and consonant letters 
 
 # taking user input
 ch = input("Enter a character: ")
